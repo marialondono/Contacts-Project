@@ -7,4 +7,19 @@ public class ContactList {
 
 	public static void loadContactsFromDisk() {
 	}
+	
+	public static void addContact(){
+		
+	}
+	
+	public static void printListofContacts() {
+		
+	}
+	
+	public static void searchByLastName() {
+		
+	}
+	public static void saveAndQuit() {
+		
+	}
 }
