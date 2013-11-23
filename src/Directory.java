@@ -6,7 +6,7 @@ public class Directory {
 	private ArrayList contacts;
 	
 
-	//stores from main newContact 	
+	//.stores from main newContact 	
 	public void addContact(Contact newContact) {
 		
 	}
